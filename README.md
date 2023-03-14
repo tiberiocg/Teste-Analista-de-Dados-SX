@@ -38,13 +38,13 @@ Critérios avaliadas:
 ### Levantar Visões
 1. Gere visualizações gráficas que demonstrem a nota como indicador, trazendo as dimensões e os gráficos que melhor possam representar 
 a informação para avaliação da performance.
-2.Analisar correlações de variáveis que identificar dentro do dataset com a variável dependente nota total (NU_NOTA_CN
+2. Analisar correlações de variáveis que identificar dentro do dataset com a variável dependente nota total (NU_NOTA_CN
 NU_NOTA_CH, NU_NOTA_LC, NU_NOTA_M.T).
-3.Gerar visualizações (Data viz) que melhor estratifiquem e demonstremos dados do bloco de DADOS DA REDAÇÃO, verificando o comportamento
+3. Gerar visualizações (Data viz) que melhor estratifiquem e demonstremos dados do bloco de DADOS DA REDAÇÃO, verificando o comportamento
 das notas 4 provas vs. estes dados.
-Gerar visualizações (Data viz) que melhor estratifiquem e demonstremos dados do bloco de DADOS DO QUESTIONÁRIO SOCIOECONÔMICO, verificando
+4. Gerar visualizações (Data viz) que melhor estratifiquem e demonstremos dados do bloco de DADOS DO QUESTIONÁRIO SOCIOECONÔMICO, verificando
 o comportamento das notas 4 provas vs. estes dados.
-4.Faça um resumo em 10 bullets de Conclusões e Insights.
+5. Faça um resumo em 10 bullets de Conclusões e Insights.
 
 ### sugestões
 1. Tableau.
